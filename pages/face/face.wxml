@@ -1,0 +1,11 @@
+<!--pages/face/face.wxml-->
+<!-- <text>pages/face/face.wxml</text> -->
+<view class="container">
+  <view>
+     <button bindtap="getInfo">调用接口</button>
+  </view>
+  <view>
+    <view class="adminName">{{userInfo.user.adminName}}</view>
+    <view class="admin">{{userInfo.user.admin}}</view>
+  </view>
+</view>

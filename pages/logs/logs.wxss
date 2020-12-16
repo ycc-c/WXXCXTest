@@ -1,0 +1,65 @@
+.header {
+  margin: 90rpx 0 90rpx 50rpx;
+  border-bottom: 1px solid #ccc;
+  text-align: center;
+  width: 650rpx;
+  height: 300rpx;
+  line-height: 450rpx;
+}
+
+.header1{
+  width: 250rpx;
+  height: 250rpx;
+  margin: 0 auto;
+  margin-top: 100rpx;
+}
+
+.header1 image{
+  border-radius: 100%;
+  width: 250rpx;
+  height: 250rpx;
+}
+
+.header image {
+  width: 200rpx;
+  height: 200rpx;
+}
+
+.wxName{
+  margin-top: 100rpx;
+  text-align: center;
+}
+
+.avatar{
+  margin: 0 auto;
+  width: 200rpx;
+  height: 200rpx;
+  padding: 10rpx;
+}
+
+.wxSex{
+  margin-top: 50rpx;
+  text-align: center;
+}
+
+.wxAddress{
+  margin-top: 50rpx;
+  text-align: center;
+}
+
+.content {
+  margin-left: 50rpx;
+  margin-bottom: 90rpx;
+}
+
+.content text {
+  display: block;
+  color: #9d9d9d;
+  margin-top: 40rpx;
+}
+
+.bottom {
+  border-radius: 80rpx;
+  margin: 70rpx 50rpx;
+  font-size: 35rpx;
+}

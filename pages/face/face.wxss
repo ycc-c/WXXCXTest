@@ -1,0 +1,9 @@
+/* pages/face/face.wxss */
+.admin{
+  margin-top: 100rpx;
+  text-align: center;
+}
+.adminName{
+  margin-top: 100rpx;
+  text-align: center;
+}
